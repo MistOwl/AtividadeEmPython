@@ -1,0 +1,13 @@
+Atividade da matéria de Sistemas Distribuidas do curso de Sistemas de Informação da UNEB
+Requisitos: Pyro4
+
+Como jogar: 
+1- Ative o servidor de nomes do Pyro escrevendo "pyro4-ns" em um dos terminais.
+2- Ative o arquivo servidorjv.py em outro terminal.
+3- Ative dois arquivos jogador.py em mais dois terminais separados
+4- Siga as instruções que aparecerão nos terminais de cada jogador.py
+
+
+Problemas conhecidos: 
+Não é possivel realizar revanche.
+
